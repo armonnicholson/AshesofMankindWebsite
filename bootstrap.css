@@ -490,7 +490,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: rgba(0, 0, 0, 0.7);
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
